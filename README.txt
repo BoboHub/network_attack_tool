@@ -1,7 +1,4 @@
-Assignment 2 
-IT - Scripting for Cybersecurity
-Boris Figeczky
-R00196187
+# How to use
 
 (1) net_attack.py - fully working SSH
 command: net_attack.py -t ip_addresses.txt -p 22,23 -u ubuntu -f passwords.txt
