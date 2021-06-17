@@ -8,7 +8,7 @@
 # CIT - COMP9053_26231 Scripting for Cybersecurity: https://cit.instructure.com/courses/38610
 ################################################################
 # CIT: MSc in Cybersecurity                   ##################
-# Boris Figeczky - R00196187                  ##################
+# B.F.                                        ##################
 # Scripting for Cybersecurity - Assignment 2  ##################
 ################################################################
 #############This file has the TELNET script ###################
